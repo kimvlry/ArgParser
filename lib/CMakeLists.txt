@@ -1,0 +1,1 @@
+add_library(        argparser        argument_parser.h        argument_parser.cpp        arg/base_arg.h        arg/base_arg.cpp        arg/int_arg.h        arg/int_arg.cpp        arg/bool_arg.h        arg/bool_arg.cpp        arg/string_arg.h        arg/string_arg.cpp)
